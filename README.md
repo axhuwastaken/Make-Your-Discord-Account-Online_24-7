@@ -17,4 +17,5 @@ That's it done xD
 
 Remember to follow
 https://discord.com/terms
+
 https://discord.com/guidelines
