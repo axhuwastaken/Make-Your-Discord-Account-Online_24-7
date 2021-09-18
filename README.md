@@ -1,6 +1,6 @@
 # Make-Your-Discord-Account-Online_24-7
 ## Easy way to keep your Account online forever!
-### If this repo will is helpfull don't forget to give a ⭐
+### If this repo will be helpfull don't forget to give a ⭐
 
 ### Warning don't add any other script to automate your account discord will terminate your account!
 
