@@ -16,6 +16,7 @@ This is pretty easy to keep your account online.
 That's it done xD
 
 Remember to follow
+
 https://discord.com/terms
 
 https://discord.com/guidelines
